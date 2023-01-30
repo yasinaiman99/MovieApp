@@ -1,0 +1,15 @@
+D:\Kerja (Crimson Logic)\Training (Dot Net)\Capstone Project\Project\SimilarityMatrix\SimilarityMatrix\bin\Debug\net6.0\SimilarityMatrix.exe
+D:\Kerja (Crimson Logic)\Training (Dot Net)\Capstone Project\Project\SimilarityMatrix\SimilarityMatrix\bin\Debug\net6.0\SimilarityMatrix.deps.json
+D:\Kerja (Crimson Logic)\Training (Dot Net)\Capstone Project\Project\SimilarityMatrix\SimilarityMatrix\bin\Debug\net6.0\SimilarityMatrix.runtimeconfig.json
+D:\Kerja (Crimson Logic)\Training (Dot Net)\Capstone Project\Project\SimilarityMatrix\SimilarityMatrix\bin\Debug\net6.0\SimilarityMatrix.dll
+D:\Kerja (Crimson Logic)\Training (Dot Net)\Capstone Project\Project\SimilarityMatrix\SimilarityMatrix\bin\Debug\net6.0\SimilarityMatrix.pdb
+D:\Kerja (Crimson Logic)\Training (Dot Net)\Capstone Project\Project\SimilarityMatrix\SimilarityMatrix\obj\Debug\net6.0\SimilarityMatrix.csproj.AssemblyReference.cache
+D:\Kerja (Crimson Logic)\Training (Dot Net)\Capstone Project\Project\SimilarityMatrix\SimilarityMatrix\obj\Debug\net6.0\SimilarityMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kerja (Crimson Logic)\Training (Dot Net)\Capstone Project\Project\SimilarityMatrix\SimilarityMatrix\obj\Debug\net6.0\SimilarityMatrix.AssemblyInfoInputs.cache
+D:\Kerja (Crimson Logic)\Training (Dot Net)\Capstone Project\Project\SimilarityMatrix\SimilarityMatrix\obj\Debug\net6.0\SimilarityMatrix.AssemblyInfo.cs
+D:\Kerja (Crimson Logic)\Training (Dot Net)\Capstone Project\Project\SimilarityMatrix\SimilarityMatrix\obj\Debug\net6.0\SimilarityMatrix.csproj.CoreCompileInputs.cache
+D:\Kerja (Crimson Logic)\Training (Dot Net)\Capstone Project\Project\SimilarityMatrix\SimilarityMatrix\obj\Debug\net6.0\SimilarityMatrix.dll
+D:\Kerja (Crimson Logic)\Training (Dot Net)\Capstone Project\Project\SimilarityMatrix\SimilarityMatrix\obj\Debug\net6.0\refint\SimilarityMatrix.dll
+D:\Kerja (Crimson Logic)\Training (Dot Net)\Capstone Project\Project\SimilarityMatrix\SimilarityMatrix\obj\Debug\net6.0\SimilarityMatrix.pdb
+D:\Kerja (Crimson Logic)\Training (Dot Net)\Capstone Project\Project\SimilarityMatrix\SimilarityMatrix\obj\Debug\net6.0\SimilarityMatrix.genruntimeconfig.cache
+D:\Kerja (Crimson Logic)\Training (Dot Net)\Capstone Project\Project\SimilarityMatrix\SimilarityMatrix\obj\Debug\net6.0\ref\SimilarityMatrix.dll
