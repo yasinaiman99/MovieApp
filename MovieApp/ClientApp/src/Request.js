@@ -2,7 +2,6 @@
 //const key= '4bf84af0cfd885e16309fcf45c3f625f'
 
 const requests = {
-    requestSimilar: `https://localhost:7162/api/recommender/`,
     requestMovie: `https://api.themoviedb.org/3/movie/315162?api_key=${key}`,
     requestPopular: `https://api.themoviedb.org/3/movie/popular?api_key=${key}&language=en-US&page=1`,
     requestTopRated: `https://api.themoviedb.org/3/movie/top_rated?api_key=${key}&language=en-US&page=1`,

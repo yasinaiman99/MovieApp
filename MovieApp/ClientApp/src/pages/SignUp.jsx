@@ -1,8 +1,10 @@
 ﻿import React, { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import { toast } from "react-toastify";
+import axios from "axios";
 //import { UserAuth } from "../context/AuthContext";
 //import validator from "validator";
+
 
 //const SignUp = () => {
 //    const url = "https://localhost:7162/api/Auth/Register";
@@ -27,10 +29,10 @@ import { toast } from "react-toastify";
     //};
 
     const SignUp = () => {
-
         const [username, setUsername] = useState("");
         const [password, setPassword] = useState("");
         const [email, setEmail] = useState("");
+        const api = "https://localhost:44474/api/Authentication/register";
 
         const navigate = useNavigate();
 
@@ -64,22 +66,41 @@ import { toast } from "react-toastify";
         }
 
 
+        //const handleSubmit = (e) => {
+        //    e.preventDefault();
+        //    let regobj = { username, password, email };
+        //    if (IsValidate()) {
+        //        //console.log(regobj);
+        //        fetch("https://localhost:44474/api/Authentication/register", {
+        //            method: "POST",
+        //            headers: { 'content-type': 'application/json' },
+        //            body: JSON.stringify(regobj)
+        //        }).then((res) => {
+        //            toast.success('Registered successfully.')
+        //            navigate('/');
+        //        }).catch((err) => {
+        //            console.log(err.message)
+        //            toast.error('Failed :' + err.message);
+        //        });
+        //    }
+        //}
         const handleSubmit = (e) => {
             e.preventDefault();
-            let regobj = { username, password, email };
+
             if (IsValidate()) {
-                //console.log(regobj);
-                fetch("api/Auth/Register", {
-                    method: "POST",
-                    headers: { 'content-type': 'application/json' },
-                    body: JSON.stringify(regobj)
-                }).then((res) => {
-                    toast.success('Registered successfully.')
-                    navigate('/');
-                }).catch((err) => {
-                    console.log(err.message)
-                    toast.error('Failed :' + err.message);
-                });
+                axios
+                    .post(api, {
+                        Username: username,
+                        Email: email,
+                        Password: password,
+                    })
+                    .then((res) => {
+                        toast.success("User registered");
+                        navigate("/login");
+                    })
+                    .catch((err) => {
+                        toast.error("Login failed, the username could be taken: " + err.message);
+                    });
             }
         }
 
