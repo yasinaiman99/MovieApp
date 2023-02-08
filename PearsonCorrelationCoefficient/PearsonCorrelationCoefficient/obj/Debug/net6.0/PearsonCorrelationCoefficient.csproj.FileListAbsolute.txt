@@ -1,0 +1,15 @@
+D:\Kerja (Crimson Logic)\Training (Dot Net)\Capstone Project\Project\PearsonCorrelationCoefficient\PearsonCorrelationCoefficient\bin\Debug\net6.0\PearsonCorrelationCoefficient.exe
+D:\Kerja (Crimson Logic)\Training (Dot Net)\Capstone Project\Project\PearsonCorrelationCoefficient\PearsonCorrelationCoefficient\bin\Debug\net6.0\PearsonCorrelationCoefficient.deps.json
+D:\Kerja (Crimson Logic)\Training (Dot Net)\Capstone Project\Project\PearsonCorrelationCoefficient\PearsonCorrelationCoefficient\bin\Debug\net6.0\PearsonCorrelationCoefficient.runtimeconfig.json
+D:\Kerja (Crimson Logic)\Training (Dot Net)\Capstone Project\Project\PearsonCorrelationCoefficient\PearsonCorrelationCoefficient\bin\Debug\net6.0\PearsonCorrelationCoefficient.dll
+D:\Kerja (Crimson Logic)\Training (Dot Net)\Capstone Project\Project\PearsonCorrelationCoefficient\PearsonCorrelationCoefficient\bin\Debug\net6.0\PearsonCorrelationCoefficient.pdb
+D:\Kerja (Crimson Logic)\Training (Dot Net)\Capstone Project\Project\PearsonCorrelationCoefficient\PearsonCorrelationCoefficient\obj\Debug\net6.0\PearsonCorrelationCoefficient.csproj.AssemblyReference.cache
+D:\Kerja (Crimson Logic)\Training (Dot Net)\Capstone Project\Project\PearsonCorrelationCoefficient\PearsonCorrelationCoefficient\obj\Debug\net6.0\PearsonCorrelationCoefficient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kerja (Crimson Logic)\Training (Dot Net)\Capstone Project\Project\PearsonCorrelationCoefficient\PearsonCorrelationCoefficient\obj\Debug\net6.0\PearsonCorrelationCoefficient.AssemblyInfoInputs.cache
+D:\Kerja (Crimson Logic)\Training (Dot Net)\Capstone Project\Project\PearsonCorrelationCoefficient\PearsonCorrelationCoefficient\obj\Debug\net6.0\PearsonCorrelationCoefficient.AssemblyInfo.cs
+D:\Kerja (Crimson Logic)\Training (Dot Net)\Capstone Project\Project\PearsonCorrelationCoefficient\PearsonCorrelationCoefficient\obj\Debug\net6.0\PearsonCorrelationCoefficient.csproj.CoreCompileInputs.cache
+D:\Kerja (Crimson Logic)\Training (Dot Net)\Capstone Project\Project\PearsonCorrelationCoefficient\PearsonCorrelationCoefficient\obj\Debug\net6.0\PearsonCorrelationCoefficient.dll
+D:\Kerja (Crimson Logic)\Training (Dot Net)\Capstone Project\Project\PearsonCorrelationCoefficient\PearsonCorrelationCoefficient\obj\Debug\net6.0\refint\PearsonCorrelationCoefficient.dll
+D:\Kerja (Crimson Logic)\Training (Dot Net)\Capstone Project\Project\PearsonCorrelationCoefficient\PearsonCorrelationCoefficient\obj\Debug\net6.0\PearsonCorrelationCoefficient.pdb
+D:\Kerja (Crimson Logic)\Training (Dot Net)\Capstone Project\Project\PearsonCorrelationCoefficient\PearsonCorrelationCoefficient\obj\Debug\net6.0\PearsonCorrelationCoefficient.genruntimeconfig.cache
+D:\Kerja (Crimson Logic)\Training (Dot Net)\Capstone Project\Project\PearsonCorrelationCoefficient\PearsonCorrelationCoefficient\obj\Debug\net6.0\ref\PearsonCorrelationCoefficient.dll
